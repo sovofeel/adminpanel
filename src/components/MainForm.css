@@ -1,0 +1,48 @@
+.main_form-wrapper {
+  font-size: 0;
+}
+
+form.main_form{
+  padding: 10px 0;
+}
+
+.main_form div{
+  display: inline-block;
+  font-size: 16px;
+}
+
+.main_form:last-child{
+  padding-right: 0;
+}
+
+.main_form-hookah label{
+  padding-right: 16px;
+}
+
+.hookah-input,
+.count-input {
+  width: 2em;
+}
+
+.hookah-input{
+  margin-left: 4px
+}
+
+.count-input{
+  color: inherit;
+  border: none;
+  outline: none;
+}
+
+.main_form-count, .main_form-human, .main_form-price {
+  color: #0421ea;
+}
+
+.main_form-buttons{
+  float: right;
+}
+
+.button-submit.main_form-button{
+  padding: .4em .8em;
+  margin-right: 5px;
+}

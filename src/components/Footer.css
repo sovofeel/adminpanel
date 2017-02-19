@@ -1,0 +1,23 @@
+
+.footer {
+  clear: both;
+  height: 100px;
+  margin: 0 auto;
+  width: 940px;
+  position: relative;
+  padding: 0 40px;
+}
+
+.money{
+  margin-bottom: 10px;
+}
+.money span{
+  margin-right: 5px;
+}
+
+.button-finish{
+  position: absolute;
+  right: 40px;
+  top: 0;
+  font-size: 40px;
+}

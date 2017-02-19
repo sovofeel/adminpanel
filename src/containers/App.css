@@ -1,0 +1,10 @@
+.main{
+  margin: 0 auto 60px;
+  padding: 0 40px;
+  box-sizing: border-box;
+  width: 940px;
+}
+
+.hidden{
+  display: none;
+}

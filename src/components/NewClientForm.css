@@ -1,0 +1,20 @@
+.newClient_form{
+  position: relative;
+  font-size: 38px;
+  margin-bottom: 30px;
+}
+
+.newClient_form input{
+  width: 100%;
+  font-size: inherit;
+  padding: 0 15px;
+  height: 70px;
+}
+
+.newClient_form button{
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  bottom: 5px;
+  font-size: inherit;
+}

@@ -1,0 +1,56 @@
+*{
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+  -webkit-transition: 0s;
+  -o-transition: 0s;
+  transition: 0s;
+}
+
+a:hover{
+  -webkit-transition: .4s ease;
+  -o-transition: .4s ease;
+  transition: .4s ease;
+}
+
+html, body, p, h1, h2, h3, h4, h5, h6, ul, li, ol, form, input, span, img, fieldset, legend, label, a, article, aside, audio, canvas, datalist, details, figure, footer, header, hgroup, mark, menu, meter, nav, output, progress, section, time, video, blockquote {
+    margin: 0;
+    padding: 0;
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    text-size-adjust: none;
+    max-height: 999999px;
+}
+
+button, a{
+  cursor: pointer;
+}
+
+input{
+  border-radius: .1em;
+  border: 1px solid rgba(0,0,0, .3);
+  padding: .2em .4em;
+}
+
+html, body{
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  font-family: "ProximaNova Regular", Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.28em;
+}
+
+.button-submit{
+  background-color: #0421ea;
+  color: #fff;
+  border: none;
+  padding: .2em .4em;
+  border-radius: .1em;
+  max-width: 100%;
+}
